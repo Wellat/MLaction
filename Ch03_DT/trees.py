@@ -178,7 +178,7 @@ if __name__== "__main__":
     '''
     按照给定特征划分数据集
     '''
-#    ans = splitDataSet(dataSet,1,1)
+    ans = splitDataSet(dataSet,1,1)
     '''
     选择最好的数据集划分方式
     '''
